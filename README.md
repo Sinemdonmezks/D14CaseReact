@@ -6,6 +6,7 @@ Getting Started with Create React App
  Download the project and to run the project;
  
  a) npm install
+ 
  b) npm start
  
 Runs the app in the development mode.
